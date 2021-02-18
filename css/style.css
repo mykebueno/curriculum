@@ -1,3 +1,11 @@
+/*
+    Cursor
+*/
+.txt-type > .txt{
+    border-right: 0.2rem solid black;
+}
+
+
 /*------------------*/
 /*Conteudo do header*/
 /*------------------*/
