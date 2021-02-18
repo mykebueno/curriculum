@@ -188,7 +188,7 @@
     }else if(this.isDeleting && this.txt === ''){
       this.isDeleting = false;
       //move to the next word
-      //this.wordIndex++;
+      this.wordIndex++;
       //pause before start typing
       typeSpeed = 500;
     }
